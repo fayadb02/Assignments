@@ -1,0 +1,10 @@
+/*Fayad Berbash 8945027*/
+body{
+    font : normal normal normal 12px/1.5 Arial, Helvetica, sans-serif;
+    width : 100vw;
+    height: 100vh;
+    background-color: hsla(0, 0%, 3%, 0.5)
+}
+h2{
+    color :red
+}
